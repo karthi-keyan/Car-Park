@@ -1,13 +1,4 @@
 {
-  "type": "service_account",
-  "project_id": "carbide-kayak-253019",
-  "private_key_id": "6d5a03e2991c3046fe95d73cf3da59d2dbbdc7b3",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDijMP4vfMULhJb\n4f3ZJxrpC2cuGvWr34b6oJvhmSWhR9XdX5rn8OCaDaG/t58rscU9ltUdFYehXnuv\n6nBBJ5TfP+EBJH/o03Z2d/ls6VB/pI92RXHDdro5mb/tym7LJI4IXECwlCAJCGJB\nrhWaib2ehCJh0Sje1jHWpHAjUnpUy1atu8PcvNWwzDwdUVtJBcUYb0wturaoXOgB\nkOBdxQQkNrYF03YsiE13mebqEleN00fJ4BE7E8qGGu/8DVLRbQFoCANa9eqYQP6Z\nV5FEXAuvbX4k8bD+wftfSQGkS9JTPT7z1emupVaRseZoAM7zFMjBQPrHbDHvoArj\n61LD6kzTAgMBAAECggEAT54Y4TogS19FpHTvuXk8w9n2EQX4gMa1sS7wmYAw8VVF\nm98VmZ3V0U4pIi9uCPUY1GRF0UrXt6Z04YYKnVtDvpG8iaJCMZjfcRMI3XXBjJpQ\nsMgHCyKWn9eg0/jopwvZvqZtNaFZANOpdFuxy/XMZgEZ9DaFnoq4SS7RGhjKVTHX\noYAlgp4pgDfNtVxyR5RkJAGUP2euipct9q0xexASyRi+aCyz7ZFWhigwAQfR4+Xj\nhfe18cn09mdrYV7KTpzktlA9Yq3AzG8pcFkAAb2w6sFEw73lMdPiKuSdPq/gXPcJ\nymoqFCFQtTvyZ35QAwEdNc2KRbwVfpAaOiPMcKJeAQKBgQD0tZCZ6WjhOFbQkNV2\n0D8bCjRXEyjSqeZKCp2y7nOv2PntLceTUFBtknPEHybfnAMuO4kmoj3A5o7IbCqE\nZeQzgie5fxrSnW6u1lsTmLUVVfnbE/zCoB5V6jU0+bkyRjuqXxiSJGygGvKzNhEJ\nI+grR/OMqZwZ3LabHMQ80j+zIQKBgQDtALUW5BT0OMcSTgnP+bl2eksMkVKxBIkE\nbI5AdfgqqpvvKHv36LKJ046jFyBBIPFcvIq2j/H45v2B5VBQid1rQBMcCF6oAWbr\njfaHgpjLZW58JxF2xpMQFfJdNpCAbjO+tnwz5u1YDBSRJR/LfEneCqfcVy8zyZRr\nqac8IVc1cwKBgBUkMo/5iGQc1/NA8BBJwYn2gbscHqTEpO60qBczXq9MkZsaH2ns\nwGYXBwVko5kiA2xVHG5ICgnGYYOTRMEXhHWmwwPVpV2Y2F0mi8vPn6VuPh3dRjMS\nXkyR5XLkOEnNo43+lULa/r9+VIWDIEmn3oEOwE3gwWnClcwk2hdfGr3BAoGAZt+a\nuz/vdH68sk5bZgIQpcO5lc/yo9HDI793E7XhLav2mZ3qCZbhAIBq9pHQN1T0T3ur\nfkkHEDI7scl2zi65hJdAdDeR1r0dDnwFmZZvekIh7hQLOZJCPYY5OIq5uHWdUlfl\nm6XOOhysRMBnh60AZzga2sKhQ4ppOT5fz/Ls5s8CgYA86SOBEEfXR0eu/WbHPfJN\nOms0U43jr3p1E6EqZyHCVL0ba8PbX+4+6XN87H9iX9NuxVFjtSdMaTIpXtKrk4A/\nKko9KluNTS0rBvi2mAP/BDf6YkTWIAtMdYSD7XDqF23RkA1NHx+/cp8u4+VPmsU+\nmptY/wZVbY/oUmXW9nuOFw==\n-----END PRIVATE KEY-----\n",
-  "client_email": "mukesk@carbide-kayak-253019.iam.gserviceaccount.com",
-  "client_id": "115209719983767847002",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mukesk%40carbide-kayak-253019.iam.gserviceaccount.com"
+ key goes here
 }
 
