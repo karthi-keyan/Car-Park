@@ -7,7 +7,7 @@ import time
 import random
 
 
-firebase = firebase.FirebaseApplication('https://carpark-d0161.firebaseio.com/', None)
+firebase = firebase.FirebaseApplication('database link', None)
 app = Flask(__name__)
 
 
